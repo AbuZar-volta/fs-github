@@ -3,3 +3,8 @@ what is your name
 can i know your name 
 my home town is jamalpur git
 git add
+what the name of your country ?
+my country is bangladesh 
+
+bangladesh is great 
+do you know that ?
